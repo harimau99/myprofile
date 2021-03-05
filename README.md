@@ -2,28 +2,17 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
 ### <div align="center">I'm Jo, a full-time DevOps Engineer & WordPress Specialist 👨‍💻 working remotely since 2012 🚀</div>  
   
-
 - 🔭 I’m currently working on my devops diary  
-  
-
 - 🌱 I’m currently learning hybrid Kubernetes and dive in penetration testing  
-  
-
 - ❓ Ask me about anything related to deployment stack, WordPress and related technologies  
-  
-
 - ⚡ Fun fact: love food  
   
-
 <br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -41,8 +30,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
@@ -54,8 +41,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
