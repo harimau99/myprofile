@@ -2,12 +2,13 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm Jo, a full-time DevOps Engineer & WordPress Specialist 👨‍💻 working remotely since 2012 🚀</div>  
+### <div align="center">I'm Jo, a full-time DevOps Engineer, Security Researcher and WordPress Specialist 👨‍💻 working remotely since 2012 🚀</div>  
   
 - 🔭 I’m currently working on my devops diary  
-- 🌱 I’m currently learning hybrid Kubernetes and dive in penetration testing  
+- 🌱 I’m currently learning hybrid Kubernetes and building OWASP Tools.
+- Certified Technologies, Alibaba & AWS Certified. 
 - ❓ Ask me about anything related to deployment stack, WordPress and related technologies  
-- ⚡ Fun fact: love food  
+- ⚡ Fun fact: love food 
   
 <br/>  
 
