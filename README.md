@@ -6,6 +6,7 @@
   
 - 🔭 I’m currently working on my devops diary  
 - 🌱 I’m currently learning hybrid Kubernetes and building OWASP Tools.
+- Author of [Teratak Repo](https://github.com/harimau99/teratak-repo) | Malaysian IT Content Material.
 - Certified Technologies, Alibaba & AWS Certified. 
 - ❓ Ask me about anything related to deployment stack, WordPress and related technologies  
 - ⚡ Fun fact: love food 
