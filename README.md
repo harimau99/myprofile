@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-### <div align="center">I'm Jo, a Full-time Fullstack Developer who does code as hobby. Site Reliability Engineer, DevOps Engineer, Security Researcher and WordPress Specialist 👨‍💻 working remotely since 2012 🚀</div>  
+### <div align="center">I'm Jo, a Full-time Site Reliability Engineer, DevOps Engineer, Security Researcher, Fullstack Developer and WordPress Specialist 👨‍💻 working remotely since 2012 🚀</div>  
   
 - 🔭 I’m currently working on my devops diary  
 - 🌱 I’m currently learning hybrid Kubernetes and building OWASP Tools.
